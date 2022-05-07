@@ -13,7 +13,13 @@ yarn watch:css
 npm run watch:css
 ```
 
-**Run Project**
+**Install Packages**
+```sh
+# npm
+npm install
+```
+
+**Run Project (Open new Terminal)**
 ```sh
 # yarn
 yarn start:game
