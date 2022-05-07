@@ -2,10 +2,10 @@
 
 **Open Folder**
 ```sh
-/web
+cd web
 ```
 
-**Build tailwind**
+**Run Tailwind**
 ```sh
 # yarn
 yarn watch:css
