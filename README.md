@@ -5,18 +5,18 @@
 cd web
 ```
 
+**Install Packages**
+```sh
+# npm
+npm install
+```
+
 **Run Tailwind**
 ```sh
 # yarn
 yarn watch:css
 # npm
 npm run watch:css
-```
-
-**Install Packages**
-```sh
-# npm
-npm install
 ```
 
 **Run Project (Open new Terminal)**
